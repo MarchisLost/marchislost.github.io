@@ -1,4 +1,4 @@
-## Hi there 👋
+## Repository with my CV and info
 
 <!--
 **MarchisLost/marchislost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
