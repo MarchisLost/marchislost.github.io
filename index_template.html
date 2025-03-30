@@ -219,7 +219,7 @@
         <aside>
           {% if education %}
             <section>
-              <h2 class="section-heading">Education</h2>
+              <h2 class="section-heading">Education & Certifications</h2>
               {% for edu in education %}
                 <section>
                   <h3>
@@ -237,7 +237,6 @@
                     </ul>
                   {% endif %}
                   {% if edu.honors %}
-                    <h4>Honors</h4>
                     <ul>
                       {% for hon in edu.honors %}<li>{{ hon }}</li>{% endfor %}
                     </ul>
@@ -254,22 +253,14 @@
             </section>
           {% endif %}
 
-          {% if skills %}
+          {% if technologies %}
             <section>
-              <h2 class="section-heading">Skills</h2>
+              <h2 class="section-heading">Technologies</h2>
               <ul class="unstyled-list">
-                {% for skill in skills %}
+                {% for skill in technologies %}
                   <li>
-                    <h3>{{ skill.name }}</h3>
-                    <div class="skill-bar">
-                      <div class="skill-bar-fill w-{{ skill.proficiency }}"
-                           role="meter"
-                           aria-valuenow="{{ skill.proficiency }}"
-                           aria-valuemin="0"
-                           aria-valuemax="100">
-                        <span class="skill-bar-label">{{ skill.proficiency_label }}</span>
-                      </div>
-                    </div>
+                    <h3>{{ skill.type }}</h3>
+                    <p class="section-label">{{ skill.name }}</p>
                   </li>
                 {% endfor %}
               </ul>

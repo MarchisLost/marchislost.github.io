@@ -7,22 +7,22 @@
 		"phone": "",
 		"location": "Porto, Portugal"
 	},
-	"summary": " AComputerScienceandengineeringgraduatethatovertheyearsdevelopedsomesoftskillsIbelievearefundamentalinanyworkplace to maintainahealthyandproductiveenvironmentsuchasteamwork,leadershipandalsomotivationtodobetterandputmystampon every challenge I take. In parallel, I’ve honed my skills in Python with a primary emphasis on working with data, a pursuit that brought andkeepsonbringing meimmensesatisfaction",
+	"summary": " A Computer Science and engineering graduate that over the years developed some soft skills I believe are fundamental in any workplace to maintain a healthy and productive environment such as teamwork, leadership and also motivation to do better and put my stampon every challenge I take. In parallel, I’ve honed my skills in Python with a primary emphasis on working with data, a pursuit that brought and keeps on bringing me immense satisfaction",
 	"base_url": "127.0.0.1:5500",
 	"social_links": [
 		{
 			"label": "Personal Website",
-			"url": "https://sample.com",
+			"url": "https://marchislost.github.io/",
 			"svg_path": "img/globe.svg"
 		},
 		{
-			"label": "LinkedIn",
+			"label": "David-Pinto98",
 			"url": "https://www.linkedin.com/in/David-Pinto98",
 			"svg_path": "img/linkedin.svg"
 		},
 		{
-			"label": "Second Social",
-			"url": "https://sample.com",
+			"label": "MarchIsLost",
+			"url": "https://github.com/MarchIsLost",
 			"svg_path": "img/github.svg"
 		}
 	],
@@ -30,65 +30,58 @@
 		{
 			"company": "Deloitte",
 			"position": "Experience Programmer",
-			"url": "https://sample.com",
+			"url": "https://www.deloitte.com/pt/pt.html",
 			"start_date": "12/09/2022",
 			"end_date": "Present",
-			"summary": "Short summary about present job and what the position entails",
+			"summary": "",
 			"highlights": [
-				" Maintained anddevelopedseveral Informatica PowerCenter workflows, together with SQL (Oracle DB and SQl Server).",
-				"Developedseveral python scripts that automated jobs for users, mainly using selenium for web scraping.",
-				"Implemented and worked on several Python scripts hosted on AWS Glue Jobs and Glue Notebooks that verified the data quality of databases and if the GDPRwasbeingcorrectly implemented on the databases.",
-				"Workedonseveral python scripts that would, either automate certain operations or serve as implementation, such as configure the data lineage, import data and create communities and domains, into the Collibra platform.",
-				"Createdthree webpagestoincorporate as adashboardintheCollibra environment, to help the users navigate the platform"
+				"Maintained and developed several Informatica PowerCenter workflows, together with SQL (Oracle DB and SQl Server).",
+				"Developed several python scripts that automated jobs for users, mainly using selenium for web scraping.",
+				"Implemented and worked on several Python scripts hosted on AWS Glue Jobs and Glue Notebooks that verified the data quality of databases and if the GDPR was being correctly implemented on the databases.",
+				"Worked on several python scripts that would, either automate certain operations or serve as implementation, such as configure the data lineage, import data and create communities and domains, into the Collibra platform.",
+				"Created three web pages to incorporate as a dashboard in the Collibra environment, to help the users navigate the platform",
+				"Improved a Collibra environment to provide a usable platform, so it could sustain the client’s whole Data Governance operations."
 			]
 		},
 		{
-			"company": "Previous Job",
-			"position": "Position Two",
-			"url": "https://sample.com",
-			"start_date": "01/01/2010",
-			"end_date": "01/01/2020",
-			"summary": "Short summary about previous job and what that position entailed",
+			"company": "INESCTEC",
+			"position": "Internship",
+			"url": "https://www.inesctec.pt/pt",
+			"start_date": "01/06/2021",
+			"end_date": "01/07/2021",
+			"summary": "",
 			"highlights": [
-				"First Duty of Previous Job",
-				"Second Duty of Previous Job",
-				"Third Duty of Previous Job"
+				"Optimized Resource Planning in Flying Communications Networks.",
+				"Implemented, in python, several optimization tools in order to understand which was better at optimize the problem at hand."
 			]
 		}
 	],
 	"projects": [
 		{
-			"title": "My First Project",
-			"summary": "Short summary about my first project",
-			"url": "https://sample.com",
+			"title": "Workshop Manager",
+			"summary": "Final Bachelors Degree Project",
+			"url": "https://github.com/MarchisLost/Gestao-ordens-reparacao-viaturas-em-oficinas-",
 			"highlights": [
-				"First Highlight of Project One",
-				"Second Highlight of Project One",
-				"Third Highlight of Project One"
-			],
-			"images": [
-				{
-					"img_path": "https://picsum.photos/600/338?random=1",
-					"caption": "Image Caption 1"
-				},
-				{
-					"img_path": "https://picsum.photos/600/338?random=2",
-					"caption": "Image Caption 2"
-				},
-				{
-					"img_path": "https://picsum.photos/600/338?random=3",
-					"caption": "Image Caption 3"
-				}
+				"Developed a Web application with the goal of assisting and improving mechanics worklife,supervising the cars while inside the shop and giving instant feedback to the customer about the status of the car.",
+ 				"Designed the front end of the web application, working with template languages, Handlebars and Mustache, in order to dynamically display the correct information on html pages."
 			]
 		},
 		{
-			"title": "My Second Project",
-			"summary": "Short summary about my second project",
-			"url": "https://sample.com",
+			"title": "Portugal Cyber Threats Review: Targeted Health Institutions",
+			"summary": "Paper about cyber security in health organizations",
+			"url": "https://privacyandsecurityconference.pt/proceedings/2020/DPSC2020-paper04.pdf",
 			"highlights": [
-				"First Highlight of Project Two",
-				"Second Highlight of Project Two",
-				"Third Highlight of Project Two"
+				"Authoredanarticle about Cyber Attacks to Portuguese Health Institutions.",
+				"Identified cybersecurity threats and attacks,searched Portuguese targeted health institutions and Surveyed Ministry of Health Shared Systems (SPMS) regarding the operations of health institutions.",
+				"Speaker in the Digital Privacy and Security Conference"
+			]
+		},
+		{
+			"title": "Alarm System",
+			"summary": "Arduino Project",
+			"url": "https://privacyandsecurityconference.pt/proceedings/2020/DPSC2020-paper04.pdf",
+			"highlights": [
+				"Built an alarm system using an arduino, 2 PIR motion sensors and 2 buzzers.",
 			],
 			"images": [
 				{
@@ -108,8 +101,8 @@
 	],
 	"volunteer_experience": [
 		{
-			"organization": "Latest Organization",
-			"position": "Position One",
+			"organization": "Poor",
+			"position": "Voluntary",
 			"url": "https://sample.com",
 			"start_date": "01/01/2020",
 			"end_date": "Present",
@@ -123,7 +116,7 @@
 		{
 			"organization": "Previous Organization",
 			"position": "Position Two",
-			"url": "https://sample.com",
+			"url": "",
 			"start_date": "01/01/2010",
 			"end_date": "01/01/2020",
 			"summary": "Short summary about previous volunteer work",
@@ -136,98 +129,54 @@
 	],
 	"education": [
 		{
-			"institution": "Institution One",
-			"location": "Institution One Location",
-			"url": "https://sample.com",
+			"institution": "ISEP (Instituto Superior de Engenharia do Porto)",
+			"location": "Porto, Portugal",
+			"url": "",
 			"degrees": [
-				"Master of Science in Computer Science",
-				"Minor in Mathematics"
+				"M.S. in Computer Engineering"
 			],
-			"honors": [
-				"Outstanding Student Award",
-				"Dean's List"
-			],
-			"gpa_cumulative": "3.5",
-			"gpa_major": "4.0",
-			"graduation_date": "01/01/2005"
+			"graduation_date": "Sep. 2021 - Jul. 2023"
 		},
 		{
-			"institution": "Institution Two",
-			"location": "Institution Two Location",
-			"url": "https://sample.com",
+			"institution": "Collibra Solution Architect",
+			"graduation_date":  "Dec. 2022"
+		},
+		{
+			"institution": "The complete Web Development Bootcamp",
+			"graduation_date":  "Aug. 2020"
+		},
+		{
+			"institution": "ULP (Universidade Lusófona do Porto)",
+			"location": "Porto, Portugal",
+			"url": "",
 			"degrees": [
-				"Bachelor of Science in Physics"
+				"B.S. in Computer Engineering"
 			],
-			"honors": [
-				"Scholarship Recipient"
-			],
-			"gpa_cumulative": "3.2",
-			"gpa_major": "3.9",
-			"graduation_date": "01/01/2000"
+			"graduation_date":  "Sep. 2017 - Jul. 2020"
+		},
+		{
+			"institution": "Automate The Booring Stuff",
+			"graduation_date":  "Jun. 2019"
 		}
 	],
-	"skills": [
+	"technologies": [
 		{
-			"name": "My First Skill",
-			"proficiency": 100,
-			"proficiency_label": "Proficiency Level"
+			"type": "Back-End",
+			"name": "Python, Groovy, Node.JS, SQL, NoSQL, RESTAPI, Git, Postman, Collibra"
 		},
 		{
-			"name": "My Second Skill",
-			"proficiency": 80,
-			"proficiency_label": "Proficiency Level"
-		}
-	],
-	"interests": [
-		{
-			"name": "My First Hobby",
-			"summary": "Short summary about my first Hobby",
-			"images": [
-				{
-					"img_path": "https://picsum.photos/600/338?random=7",
-					"caption": "Image Caption 7"
-				},
-				{
-					"img_path": "https://picsum.photos/600/338?random=8",
-					"caption": "Image Caption 8"
-				}
-			]
-		},
-		{
-			"name": "My Second Hobby",
-			"summary": "Short summary about my second hobby",
-			"images": [
-				{
-					"img_path": "https://picsum.photos/600/338?random=9",
-					"caption": "Image Caption 9"
-				},
-				{
-					"img_path": "https://picsum.photos/600/338?random=10",
-					"caption": "Image Caption 10"
-				}
-			]
+			"type": "Front-End",
+			"name": "JavaScript,HTML,CSS,Bootstrap"
 		}
 	],
 	"languages": [
 		{
+			"language": "Portuguese",
+			"fluency": "Native Speaker"
+		},
+		{
 			"language": "English",
-			"fluency": "Native speaker"
-		},
-		{
-			"language": "American Sign Language",
 			"fluency": "Professional Working Proficiency"
-		}
-	],
-	"references": [
-		{
-			"name": "Person One",
-			"relation": "Previous Boss",
-			"reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-		},
-		{
-			"name": "Person Two",
-			"relation": "Previous Coworker",
-			"reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
 		}
 	]
 }
