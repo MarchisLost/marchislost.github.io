@@ -157,8 +157,9 @@
                     <div class="gallery main-gallery">
                       {% for img in project.images %}
                         <figure>
-                          <img width="600"
-                               height="338"
+                          <img width="100px"
+                               height="10px"
+                               style="object-fit: cover;"
                                src="{{ img.img_path }}"
                                alt="{{ img.caption }}">
                           <figcaption>{{ img.caption }}</figcaption>

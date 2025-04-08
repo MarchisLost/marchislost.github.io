@@ -81,49 +81,22 @@
 			"summary": "Arduino Project",
 			"url": "https://privacyandsecurityconference.pt/proceedings/2020/DPSC2020-paper04.pdf",
 			"highlights": [
-				"Built an alarm system using an arduino, 2 PIR motion sensors and 2 buzzers.",
+				"Built a 'Streamar Deck' - Small Keyboard to control things a normal keyboard cant, such as mute/unmute, startup of apps, etc.",
+				"Built an alarm system using an arduino, 2 PIR motion sensors and 2 buzzers."
 			],
 			"images": [
 				{
-					"img_path": "https://picsum.photos/600/338?random=4",
-					"caption": "Image Caption 4"
+					"img_path": "/img/alarm.png",
+					"caption": "Streamer Deck - Img"
 				},
 				{
-					"img_path": "https://picsum.photos/600/338?random=5",
-					"caption": "Image Caption 5"
+					"img_path": "/img/streamerdeck.jpg",
+					"caption": "Streamer Deck - Video"
 				},
 				{
-					"img_path": "https://picsum.photos/600/338?random=6",
-					"caption": "Image Caption 6"
+					"img_path": "/img/streamerdeck.mp4",
+					"caption": "Alarm System"
 				}
-			]
-		}
-	],
-	"volunteer_experience": [
-		{
-			"organization": "Poor",
-			"position": "Voluntary",
-			"url": "https://sample.com",
-			"start_date": "01/01/2020",
-			"end_date": "Present",
-			"summary": "Short summary about present volunteer work",
-			"highlights": [
-				"First Duty of Current Organization",
-				"Second Duty of Current Organization",
-				"Third Duty of Current Organization"
-			]
-		},
-		{
-			"organization": "Previous Organization",
-			"position": "Position Two",
-			"url": "",
-			"start_date": "01/01/2010",
-			"end_date": "01/01/2020",
-			"summary": "Short summary about previous volunteer work",
-			"highlights": [
-				"First Duty of Previous Organization",
-				"Second Duty of Previous Organization",
-				"Third Duty of Previous Organization"
 			]
 		}
 	],
@@ -166,7 +139,7 @@
 		},
 		{
 			"type": "Front-End",
-			"name": "JavaScript,HTML,CSS,Bootstrap"
+			"name": "JavaScript, HTML, CSS, Bootstrap"
 		}
 	],
 	"languages": [
