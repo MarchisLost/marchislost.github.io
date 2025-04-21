@@ -79,7 +79,7 @@
 		{
 			"title": "Streamer Deck/Alarm System",
 			"summary": "Arduino Project",
-			"url": "https://privacyandsecurityconference.pt/proceedings/2020/DPSC2020-paper04.pdf",
+			"url": "",
 			"highlights": [
 				"Built a 'Streamar Deck' - Small Keyboard to control things a normal keyboard cant, such as mute/unmute, startup of apps, etc.",
 				"Built an alarm system using an arduino, 2 PIR motion sensors and 2 buzzers."
@@ -121,7 +121,7 @@
 	"technologies": [
 		{
 			"type": "Back-End",
-			"name": "Python, Groovy, Node.JS, SQL, NoSQL, RESTAPI, Git, Postman, Collibra"
+			"name": "Python, Informatica Powercenter, SQL, NoSQL, RESTAPI, Git, Postman, JS, Groovy, Collibra"
 		},
 		{
 			"type": "Front-End",
